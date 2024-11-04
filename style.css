@@ -1,5 +1,5 @@
 body {
-    font-family: "PragmataPro", sans-serif;
+    font-family: "PragmataPro", monospace !important;
   }
 
 .nav flex-column{
